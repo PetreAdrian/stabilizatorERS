@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : sers_petre_adrian_432e.brd                    )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Thu Dec  5 14:04:30 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (553.02 512.53)  Net: GND

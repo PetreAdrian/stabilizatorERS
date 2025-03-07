@@ -1,0 +1,260 @@
+
+**** 11/13/24 00:42:34 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-psrr"  [ d:\altele\etti\orcadcis lite proiecte\sers_petre_adrian\sers_petre_adrian_432e-pspicefiles\schemati
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "psrr.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "d:/altele/etti/spice models/draghici/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c2v7.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/mjd31cg.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/bc846b.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/bzx84c5v1.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/bc856b.lib" 
+* From [PSPICE NETLIST] section of C:\Users\adria\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 100ms 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source SERS_PETRE_ADRIAN_432E
+Q_Q9         N128465 N128759 N128785 QBC846B 
+D_D1         0 N128759 BZX84-C5V1 
+R_R48         N128759 N129289  2k TC=0,0 
+R_R17         N1278650 N128037  1 TC=0,0 
+R_R66         0 N128775  3.3k TC=0,0 
+R_R65         0 N128775  3.3k TC=0,0 
+R_R27         N128251 N128037  1 TC=0,0 
+R_R72         N128015 N128251  1 TC=0,0 
+Q_Q16         N128465 N128465 N128331 QBC856B 
+R_R23         0 N129053  510 TC=0,0 
+R_R44         N129295 N129301  1.5k TC=0,0 
+Q_Q14         N127923 N128195 N128015 QMJD31C 
+R_R62         0 N128059  2.2k TC=0,0 
+R_R45         N129307 0  510 TC=0,0 
+R_R2         N128397 N128059  5.6k TC=0,0 
+R_R13         N128337 N127923  1k TC=0,0 
+R_R61         0 N128059  2.7k TC=0,0 
+R_R73         N128015 N1278650  1 TC=0,0 
+R_R8         N135150 N127923  2k TC=0,0 
+R_R25         0 N129005  220 TC=0,0 
+R_R24         N128331 N127923  1k TC=0,0 
+C_C2         N128059 0  10n  TC=0,0 
+R_R51         N128239 N128245  1 TC=0,0 
+X_R16         N128397 N128769 N128795 POT PARAMS: SET={SET} VALUE=10k
+X_D3         N127923 N128823 LED PARAMS: IS=5.6404e-029 RS=30  BV=5 IBV=5e-6   
++       
+R_R70         0 N129047  2k TC=0,0 
+Q_Q17         N128369 N128465 N128337 QBC856B 
+Q_Q10         N128369 N128769 N128785 QBC846B 
+R_R69         N129047 N128823  2k TC=0,0 
+R_R60         0 N128059  2.7k TC=0,0 
+R_R67         0 N128775  1k TC=0,0 
+Q_Q15         N128785 N128759 N129053 QBC846B 
+R_R47         N129289 N129295  2k TC=0,0 
+R_R59         0 N128059  2.7k TC=0,0 
+R_R26         N128037 N128059  1 TC=0,0 
+R_R64         N129043 N128823  2k TC=0,0 
+Q_Q12         N127923 N128369 N128195 QBC846B 
+R_R74         N128059 N128245  1 TC=0,0 
+Q_Q26         N128369 N129033 0 QBC846B 
+V_V1         N129918 0 26
+Q_Q13         N128369 N128015 N128059 QBC846B 
+X_D4         N128059 N128775 LED PARAMS: IS=5.6404e-029 RS=30  BV=5 IBV=5e-6   
++       
+C_C1         0 N127923  10n  TC=0,0 
+R_R50         N128037 N128239  0.47 TC=0,0 
+R_R5         N129005 N128795  10k TC=0,0 
+X_R46         N129307 N129033 N129301 POT PARAMS: SET=0.5 VALUE=500
+R_R71         0 N129043  2k TC=0,0 
+V_V2         N127923 N129918  AC 1
++SIN 0 1 100 0 0 0
+R_R75         N135055 N127923  2k TC=0,0 
+R_R76         N128759 N135150  2k TC=0,0 
+R_R77         N128759 N135055  2k TC=0,0 
+.PARAM  set=1
+
+**** RESUMING psrr.cir ****
+.END
+
+**** 11/13/24 00:42:34 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-psrr"  [ d:\altele\etti\orcadcis lite proiecte\sers_petre_adrian\sers_petre_adrian_432e-pspicefiles\schemati
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               BZX84-C5V1      X_D3.model201   X_D4.model201   
+          IS    2.666500E-18   56.404000E-30   56.404000E-30 
+           N     .82284         2               2            
+         ISR  150.400000E-12                                 
+         IKF     .01176                                      
+          BV    5.176           5               5            
+         IBV     .10454         5.000000E-06    5.000000E-06 
+          RS     .51617        30              30            
+          TT   43.858000E-09                                 
+         CJO  232.290000E-12                                 
+          VJ     .79587                                      
+           M     .35004                                      
+
+
+**** 11/13/24 00:42:34 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-psrr"  [ d:\altele\etti\orcadcis lite proiecte\sers_petre_adrian\sers_petre_adrian_432e-pspicefiles\schemati
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               QMJD31C         QBC846B         QBC856B         
+               NPN             NPN             PNP             
+       LEVEL    1               1               1            
+          IS   90.620200E-12   18.220000E-15   20.140000E-15 
+          EG    1.05                                         
+          BF    3.418700E+03  324.4           315.3          
+          NF    1.17603          .9932           .9974       
+         VAF   29.2393         82              39.15         
+         IKF     .108267         .109            .079        
+         ISE  537.193000E-09  289.400000E-18    6.578000E-15 
+          NE    4               1.4             1.45         
+          BR  367.353           8.29            8.68         
+          NR    5                .9931           .9952       
+         VAR    1.631          17.9             9.5          
+         IKR    1.15207          .09             .09         
+         ISC    1.157540E-09    9.982000E-12   16.330000E-15 
+          NC    1.49179         1.763           1.15         
+         ISS    0               0               0            
+          RB   22.4853         10              10            
+         RBM    1.000000E-12    5               5.000000E-06 
+         IRB    2.209370E-03    5.000000E-06    5.000000E-06 
+          RE  100.000000E-06     .649            .663        
+          RC     .138633         .7014           .718        
+         CJE  373.889000E-12   12.440000E-12   11.350000E-12 
+         VJE     .67672          .7579           .7071       
+         MJE     .575056         .3656           .3808       
+         CJC  352.510000E-12    3.347000E-12    6.395000E-12 
+         VJC     .884306         .5463           .4951       
+         MJC     .473486         .391            .44         
+        XCJC     .1              .6193           .6288       
+         CJS    0               0               0            
+         VJS     .75             .75             .75         
+         MJS     .5              .333            .333        
+          FC     .8              .979            .9059       
+          TF   10.000000E-09  490.800000E-12  654.600000E-12 
+         XTF    3.4926          9.51            5.387        
+         VTF   12.6615          2.927           6.245        
+         ITF     .052395         .3131           .2108       
+          TR    3.298030E-06   90.000000E-09   55.000000E-09 
+         XTB  999.997000E-15                                 
+         XTI    1.000000E-12                                 
+          KF    0               0               0            
+          AF    1               1               1            
+          CN    2.42            2.42            2.2          
+           D     .87             .87             .52         
+
+
+**** 11/13/24 00:42:34 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-psrr"  [ d:\altele\etti\orcadcis lite proiecte\sers_petre_adrian\sers_petre_adrian_432e-pspicefiles\schemati
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N127923)   26.0000                   (N128015)    6.6346                       
+
+(N128037)    6.6186                   (N128059)    6.6072                       
+
+(N128195)    7.2102                   (N128239)    6.6164                       
+
+(N128245)    6.6118                   (N128251)    6.6266                       
+
+(N128331)   21.8880                   (N128337)   21.8800                       
+
+(N128369)    7.7905                   (N128397)    5.1196                       
+
+(N128465)   21.2100                   (N128759)    5.1173                       
+
+(N128769)    5.1196                   (N128775)    3.3513                       
+
+(N128785)    4.4459                   (N128795)    2.5876                       
+
+(N128823)   22.5290                   (N129005)     .0557                       
+
+(N129033)     .5969                   (N129043)   11.2650                       
+
+(N129047)   11.2650                   (N129053)    4.4037                       
+
+(N129289)    3.5450                   (N129295)    1.9727                       
+
+(N129301)     .7935                   (N129307)     .4006                       
+
+(N129918)   26.0000                   (N135055)   15.5590                       
+
+(N135150)   15.5590                   (N1278650)    6.6266                  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -4.593E-02
+    V_V2        -4.593E-02
+
+    TOTAL POWER DISSIPATION   1.19E+00  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 11/13/24 00:42:34 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-psrr"  [ d:\altele\etti\orcadcis lite proiecte\sers_petre_adrian\sers_petre_adrian_432e-pspicefiles\schemati
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .08
+

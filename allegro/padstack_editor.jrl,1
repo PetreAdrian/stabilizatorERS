@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Dec  4 23:40:10 2024
+\t (00:00:00)         Host=DESKTOP-J7IPU87 User=adria Pid=9304 CPUs=6
+\t (00:00:00) CmdLine= padstack_editor -mpssession adria -file C:/Users/adria/AppData/Local/Temp/#Taaaaeg06496.tmp -pname R125_110 -data C:/Users/adria/AppData/Local/Temp/#Taaaaej06496.tmp
+\t (00:00:00) 
+\d (00:00:02) QtSignal MainWindow Exit triggered
+\t (00:00:02)     Journal end - Wed Dec  4 23:40:13 2024

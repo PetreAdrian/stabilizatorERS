@@ -1,0 +1,446 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "N128239",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128239",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128239",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128239",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128331",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128331",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128331",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128331",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128785",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128785",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128785",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128785",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128775",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128775",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128775",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128775",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128769",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128769",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128769",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128769",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128059",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128059",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128059",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128059",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128251",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128251",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128251",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128251",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128015",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128015",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128015",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128015",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129043",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129043",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129043",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129043",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129005",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129005",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129005",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129005",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128795",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128795",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128795",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128795",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128465",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128465",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128465",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128465",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128037",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128037",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128037",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128037",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128397",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128397",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128397",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128397",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129307",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129307",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129307",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129307",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129047",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129047",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129047",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129047",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128245",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128245",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128245",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128245",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129033",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129033",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129033",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129033",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N1278650",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n1278650",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N1278650",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n1278650",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128337",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128337",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128337",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128337",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129053",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129053",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129053",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129053",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128823",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128823",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128823",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128823",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N135055",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n135055",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N135055",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n135055",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128759",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128759",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128759",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128759",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N135150",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n135150",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N135150",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n135150",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128369",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128369",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N128369",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n128369",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N127929",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n127929",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N127929",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n127929",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "GND",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):gnd",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "20 MIL"
+		},
+		{
+			"Name" : "GND",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):gnd",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "20 MIL"
+		},
+		{
+			"Name" : "N129313",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129313",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N129313",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n129313",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N157013",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n157013",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N157013",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n157013",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N157840",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n157840",
+			"PropName" : "MIN_NECK_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		},
+		{
+			"Name" : "N157840",
+			"C_PATH" : "@sers_petre_adrian_432e.schematic1(sch_1):n157840",
+			"PropName" : "MIN_LINE_WIDTH",
+			"Logical" : null,
+			"Physical" : "18 MIL"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : []
+}

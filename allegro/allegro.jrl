@@ -1,0 +1,379 @@
+\t (00:00:00) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec  6 17:06:18 2024
+\t (00:00:00)         Host=DESKTOP-J7IPU87 User=adria Pid=10776 CPUs=6
+\t (00:00:00) CmdLine= D:\altele\Aplicatii\cadence 17.4\tools\bin\allegro.exe -mpssession adria -proj D:\altele\Etti\OrcadCIS lite proiecte\SERS_Petre_Adrian\SERS_Petre_Adrian_432E.opj D:/altele/Etti/OrcadCIS lite proiecte/SERS_Petre_Adrian/allegro/sers_petre_adrian_432e.brd
+\t (00:00:00) 
+\t (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sers_petre_adrian_432e"
+\d (00:00:03) Design opened: D:/altele/Etti/OrcadCIS lite proiecte/SERS_Petre_Adrian/allegro/sers_petre_adrian_432e.brd
+\i (00:00:04) trapsize 1310
+\i (00:00:04) trapsize 1351
+\i (00:00:04) trapsize 1310
+\i (00:00:04) trapsize 1121
+\i (00:00:04) trapsize 1121
+\t (00:00:04) > Sending response DoneOpenBoard
+\i (00:00:04) generaledit 
+\t (00:00:04) > DoPullSchematic message received
+\t (00:00:04) > Pulling schematic...
+\t (00:00:04) Starting Cadence Logic Import...
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 1121
+\t (00:00:05) > Sending response DonePullSchematic
+\t (00:00:05) > Schematic pulled successfully
+\i (00:00:05) generaledit 
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 805.19 284.31
+\i (00:00:26) trapsize 560
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 748.03 350.43
+\i (00:00:28) trapsize 1121
+\i (00:00:54) cmgr 
+\i (00:00:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:00:55) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:56) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:00:56) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:00:56) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 0 1
+\i (00:00:56) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 1 1 0
+\i (00:00:56) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 1 3
+\i (00:00:56) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 3 3 1
+\i (00:00:56) QtSignal CCMViewHost26 tableWidget currentChanged "sers_petre_adrian_432e"
+\i (00:00:56) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:56) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal CCMViewHost63 tableWidget currentChanged "sers_petre_adrian_432e"
+\i (00:00:56) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:00:56) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal CCMViewHost58 tableWidget currentChanged "sers_petre_adrian_432e"
+\i (00:00:56) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:56) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:00:56) QtSignal "All Layers"
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal CCMViewHost167 tableWidget currentChanged "sers_petre_adrian_432e"
+\i (00:00:56) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:00:56) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:00:56) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:00:56) QtSignal "All Layers"
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView638 Frozen_All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView638 Frozen_All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal All_Layers_WorksheetView638 All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 0 0 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView638 All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 1 1 0
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView638 Frozen_All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal Frozen_All_Layers_WorksheetView638 Frozen_All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal All_Layers_WorksheetView638 All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 0 1 3
+\i (00:00:56) QtSignal All_Layers_WorksheetView638 All_Layers_WorksheetView638Header sectionMoved +
+\i (00:00:56) QtSignal 3 3 1
+\i (00:00:56) QtSignal CCMViewHost638 tableWidget currentChanged "sers_petre_adrian_432e"
+\i (00:00:56) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:00:56) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Net "All Layers"
+\i (00:00:56) generaledit 
+\i (00:01:13) QtSignal inCell text editingFinished 14
+\i (00:01:22) QtSignal inCell text editingFinished 14
+\i (00:01:25) QtSignal inCell text editingFinished 14
+\i (00:01:30) QtSignal CCMVTabbediewHost637 CCMViewHost638 keyPressEvent 16777251 134217728 false +
+\i (00:01:30) QtSignal 1
+\i (00:01:47) QtSignal CCMVTabbediewHost637 CCMViewHost638 keyPressEvent 16777249 67108864 false +
+\i (00:01:47) QtSignal 1
+\i (00:01:47) QtSignal CCMVTabbediewHost637 CCMViewHost638 keyPressEvent 83 67108864 false 1 ""
+\i (00:01:48) QtSignal CCMVTabbediewHost637 CCMViewHost638 keyPressEvent 16777249 67108864 false +
+\i (00:01:48) QtSignal 1
+\i (00:01:48) QtSignal CCMVTabbediewHost637 CCMViewHost638 keyPressEvent 83 67108864 false 1 ""
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in 429.73 1013.94
+\t (00:01:52) Loading consmgr.cxt 
+\t (00:01:52) Loading acns_formula.cxt 
+\i (00:01:52) trapsize 560
+\i (00:01:53) zoom in 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom in 429.73 1013.95
+\i (00:01:53) trapsize 280
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 434.22 1010.58
+\i (00:01:54) trapsize 560
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 434.21 1006.11
+\i (00:01:55) trapsize 1121
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 837.70 116.21
+\i (00:01:57) trapsize 560
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 852.28 118.45
+\i (00:01:57) trapsize 280
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 852.28 118.45
+\i (00:01:57) trapsize 140
+\i (00:01:58) zoom out 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out 854.25 116.77
+\i (00:01:58) trapsize 280
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 785.88 322.44
+\i (00:02:00) trapsize 140
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 785.88 322.72
+\i (00:02:00) trapsize 70
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 794.99 310.12
+\i (00:02:02) trapsize 140
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 795.27 312.92
+\i (00:02:02) trapsize 280
+\i (00:02:06) show measure 
+\i (00:02:07) pick grid 791.34 300.59
+\t (00:02:07) last pick:  791.00 301.00
+\i (00:02:08) pick grid 791.34 345.42
+\t (00:02:08) last pick:  791.00 345.00
+\i (00:02:16) setwindow text
+\i (00:02:16) close
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 793.58 324.13
+\i (00:02:17) trapsize 140
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 796.67 327.50
+\i (00:02:17) trapsize 70
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 797.79 328.48
+\i (00:02:17) trapsize 35
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 797.79 328.48
+\i (00:02:17) trapsize 18
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 797.79 328.48
+\i (00:02:17) trapsize 9
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 797.65 328.70
+\i (00:02:17) trapsize 18
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 797.66 328.69
+\i (00:02:17) trapsize 35
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 794.43 336.54
+\i (00:02:18) trapsize 18
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out 794.51 334.72
+\i (00:02:19) trapsize 35
+\i (00:02:19) prepopup 792.47 325.34
+\i (00:02:24) cancel 
+\i (00:02:24) generaledit 
+\i (00:02:25) prepopup 790.65 328.49
+\i (00:02:27) pop dyn_option_select 'Quick Utilities@:@Grids...' 
+\i (00:02:27) define grid 
+\t (00:02:27) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:28) setwindow form.grid
+\i (00:02:28) FORM grid display YES 
+\i (00:02:30) FORM grid apply  
+\i (00:02:31) FORM grid done  
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom in 792.19 336.33
+\i (00:02:32) trapsize 18
+\i (00:02:34) show measure 
+\i (00:02:36) pick grid 789.85 337.91
+\t (00:02:36) last pick:  790.00 338.00
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 791.91 335.43
+\i (00:02:37) trapsize 35
+\i (00:02:37) zoom out 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom out 791.84 335.28
+\i (00:02:37) trapsize 70
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 790.73 309.51
+\i (00:02:38) trapsize 35
+\i (00:02:38) zoom in 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom in 790.10 310.01
+\i (00:02:38) trapsize 18
+\i (00:02:39) zoom out 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom out 789.65 314.91
+\i (00:02:39) trapsize 35
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in 790.41 310.92
+\i (00:02:41) trapsize 18
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in 790.62 310.89
+\i (00:02:41) trapsize 9
+\i (00:02:42) pick grid 789.97 310.98
+\t (00:02:42) last pick:  790.00 311.00
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 788.89 312.94
+\i (00:02:45) trapsize 18
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 788.50 313.96
+\i (00:02:45) trapsize 35
+\i (00:02:47) setwindow text
+\i (00:02:47) close
+\i (00:02:47) setwindow pcb
+\i (00:02:47) prepopup 782.89 330.29
+\i (00:02:48) done 
+\i (00:02:48) generaledit 
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 784.79 323.70
+\i (00:02:48) trapsize 70
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 784.92 322.58
+\t (00:02:48) Grids are drawn 2.00, 2.00 apart for enhanced viewing.
+\i (00:02:48) trapsize 140
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 786.32 317.54
+\t (00:02:48) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:02:48) trapsize 280
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 677.62 231.81
+\t (00:02:49) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:02:49) trapsize 560
+\i (00:02:52) zoom fit 
+\i (00:02:52) trapsize 851
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 1125.09 282.59
+\t (00:03:00) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:03:00) trapsize 425
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 1128.49 273.23
+\t (00:03:00) Grids are drawn 2.00, 2.00 apart for enhanced viewing.
+\i (00:03:00) trapsize 213
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 1139.98 265.15
+\i (00:03:01) trapsize 106
+\i (00:03:03) show measure 
+\i (00:03:05) pick grid 1124.88 274.52
+\t (00:03:05) last pick:  1125.00 275.00
+\i (00:03:06) pick grid 1109.77 253.24
+\t (00:03:06) last pick:  1110.00 253.00
+\i (00:03:15) setwindow text
+\i (00:03:15) close
+\i (00:03:16) setwindow pcb
+\i (00:03:16) prepopup 1010.21 351.11
+\i (00:03:17) done 
+\i (00:03:17) generaledit 
+\i (00:03:19) save 
+\i (00:03:20) fillin yes 
+\t (00:03:20) > Sending response DoneOpenBoard
+\i (00:03:20) generaledit 
+\i (00:31:29) zoom out 1 
+\i (00:31:29) setwindow pcb
+\i (00:31:29) zoom out 1067.65 334.30
+\t (00:31:29) [17:37:47.298000] Periodic Lic check successful
+[17:37:47.298000] Feature usage summary:
+[17:37:47.298000] OrCAD_X_PCB_Professional_Plus
+[17:37:47.298000] OrCAD_X_Professional_Plus
+
+\i (00:31:29) trapsize 213
+\i (00:31:30) zoom out 1 
+\i (00:31:30) setwindow pcb
+\i (00:31:30) zoom out 1067.23 329.62
+\t (00:31:30) Grids are drawn 4.00, 4.00 apart for enhanced viewing.
+\i (00:31:30) trapsize 426
+\i (00:31:30) zoom out 1 
+\i (00:31:30) setwindow pcb
+\i (00:31:30) zoom out 1041.70 308.34
+\t (00:31:30) Grids are drawn 8.00, 8.00 apart for enhanced viewing.
+\i (00:31:30) trapsize 851
+\i (00:31:32) zoom fit 
+\i (00:31:32) trapsize 851
+\i (00:32:43) exit 
+\t (00:32:43) Lic Summary:
+[17:39:01.224000] Cdslmd servers:C:\Users\adria\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[17:39:01.231000] Feature usage summary:
+[17:39:01.231000] OrCAD_X_PCB_Professional_Plus
+[17:39:01.231000] OrCAD_X_Professional_Plus
+
+\t (00:32:43)     Journal end - Fri Dec  6 17:39:01 2024

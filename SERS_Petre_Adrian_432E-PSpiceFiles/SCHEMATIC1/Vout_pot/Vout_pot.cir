@@ -1,0 +1,24 @@
+** Profile: "SCHEMATIC1-Vout_pot"  [ d:\altele\etti\orcadcis lite proiecte\sers_petre_adrian\sers_petre_adrian_432e-pspicefiles\schematic1\vout_pot.sim ] 
+
+** Creating circuit file "Vout_pot.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "d:/altele/etti/spice models/draghici/lib_modelepspice_anexa_1/modele_a1_lib/bzx84c2v7.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/mjd31cg.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/bc846b.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/bzx84c5v1.lib" 
+.LIB "d:/altele/aplicatii/cadence/tools/capture/library/pspice/modele_a1_lib/bc856b.lib" 
+* From [PSPICE NETLIST] section of C:\Users\adria\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.DC LIN PARAM SET 0 1 0.01 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

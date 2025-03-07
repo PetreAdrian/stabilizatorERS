@@ -1,0 +1,81 @@
+\t (00:00:02) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Dec  6 16:46:16 2024
+\t (00:00:02)         Host=DESKTOP-J7IPU87 User=adria Pid=16500 CPUs=6
+\t (00:00:02) CmdLine= D:\altele\Aplicatii\cadence 17.4\tools\bin\allegro.exe -mpssession adria -proj D:\altele\Etti\OrcadCIS lite proiecte\SERS_Petre_Adrian\SERS_Petre_Adrian_432E.opj D:/altele/Etti/OrcadCIS lite proiecte/SERS_Petre_Adrian/allegro/sers_petre_adrian_432e.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sers_petre_adrian_432e"
+\d (00:00:04) Design opened: D:/altele/Etti/OrcadCIS lite proiecte/SERS_Petre_Adrian/allegro/sers_petre_adrian_432e.brd
+\i (00:00:04) trapsize 1310
+\i (00:00:04) trapsize 1351
+\i (00:00:04) trapsize 1310
+\i (00:00:05) trapsize 1121
+\i (00:00:05) trapsize 1121
+\t (00:00:05) > Sending response DoneOpenBoard
+\i (00:00:05) generaledit 
+\t (00:00:05) > DoPullSchematic message received
+\t (00:00:05) > Pulling schematic...
+\t (00:00:05) Starting Cadence Logic Import...
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1121
+\t (00:00:06) > Sending response DonePullSchematic
+\t (00:00:06) > Schematic pulled successfully
+\i (00:00:06) generaledit 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -633.92 -132.63
+\i (00:00:18) trapsize 2242
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -674.26 -132.64
+\i (00:00:18) trapsize 4483
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -871.52 -16.08
+\i (00:00:19) trapsize 2242
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -871.52 -16.08
+\i (00:00:19) trapsize 1121
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out -299.92 69.10
+\i (00:00:20) trapsize 2242
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in -147.48 347.06
+\i (00:00:20) trapsize 1121
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 894.85 304.47
+\i (00:00:21) trapsize 2242
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 1092.10 622.78
+\i (00:00:21) trapsize 1121
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 1127.97 461.39
+\i (00:00:22) trapsize 2242
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1459.72 89.29
+\i (00:00:23) trapsize 1121
+\i (00:04:58) save 
+\t (00:04:58) [16:51:12.231712] Periodic Lic check successful
+[16:51:12.756000] Feature usage summary:
+[16:51:12.756000] OrCAD_X_PCB_Professional_Plus
+[16:51:12.756000] OrCAD_X_Professional_Plus
+
+\i (00:04:59) fillin yes 
+\t (00:04:59) > Sending response DoneOpenBoard
+\i (00:04:59) generaledit 
+\i (00:05:01) exit 
+\t (00:05:01) Lic Summary:
+[16:51:15.271712] Cdslmd servers:C:\Users\adria\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:51:15.803000] Feature usage summary:
+[16:51:15.803000] OrCAD_X_PCB_Professional_Plus
+[16:51:15.803000] OrCAD_X_Professional_Plus
+
+\t (00:05:01)     Journal end - Fri Dec  6 16:51:15 2024
